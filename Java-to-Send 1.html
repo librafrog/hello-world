@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2018 by anonymous (http://jsbin.com/facitikaze/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rancho&effect=decaying|anaglyph">
+  <title>JS Bin</title>
+</head>
+<body bgcolor="#98ff98">
+  <h2 align="right">Welcome to Java1&#9973</h2>
+  
+  <button <input class="w3-btn w3-black w3-right w3-small"type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+  <br><br><br>
+  <h3 class="font-effect-decaying" style="background-color:antiquewhite"align="center">END LINE &#9994</h3>
+<script>
+  var x;
+x=prompt("Въведете постигнати резултати от 1-9т.","");
+  if (x>=1&x<=3){
+    x=x*10
+    document.write("Приключихте с "+x+" точки общо.Бонус x10");
+  }
+    else if(x>=4&x<=6){
+  x=x*100
+  document.write("Приключихте с "+x+" точки общо.Бонус умножение x100");
+}
+  
+else if(x>=7&x<=9){
+  x=x*1000
+  document.write("Приключихте с "+x+" точки общо.Бонус умножение x1000");
+}
+else{
+    alert("Това е грешка. Стойността не e в диапазона от 1-9/не бива да 0 или Не е цифрова.");
+  }
+  
+  </script>
+</body>
+</html>
