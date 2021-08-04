@@ -1,4 +1,5 @@
 # hello-world
+![progress](https://progress-bar.dev/12/?title=progress)
 If you want to join contact me in some way
 
 Now its time to alter this branch :v:
