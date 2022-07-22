@@ -24,3 +24,10 @@ Now its time to alter this branch :v:
 
 > **Warning**
 > This is a warning
+___
+
+{% octicon alert height:32 class: "right left" aria-label:hi%}
+
+
+{% octicon device-camera height: 16%}
+
