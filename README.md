@@ -24,3 +24,25 @@ Now its time to alter this branch :v:
 
 > **Warning**
 > This is a warning
+>
+Next we have `div` instead of `blockquote`. Coming soon for Mobile
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+#. List item
+
+   .. code:: bash
+
+      Do something
+
+   .. pull-quote::
+      **Warning**
+      
+      **NB:** Something to be aware of
+
