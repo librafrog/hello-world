@@ -47,7 +47,7 @@ Next we have `div` instead of `blockquote`. Coming soon for Mobile
       **NB:** Something to be aware of
 
 The devil’s in the details
-Adding lengthy error logs or verbose program output to an issue can be helpful in resolving a bug, but if it takes up pages of vertical space, consider using the <details> and <summary> tags.
+Adding lengthy error logs or verbose program output to an issue can be helpful in resolving a bug, but if it takes up pages of vertical space, consider using the \<details\> and \<summary\> tags.
 
 Having some problems firing up the laser.
 
@@ -70,4 +70,5 @@ Having some problems firing up the laser.
 501 touch /opt/LLL/run/ok
 502 LLLSDLaserControl -ok1
 </details>
+
 Some text after that. Do yo 🙈 Me
