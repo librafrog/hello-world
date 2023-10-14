@@ -15,6 +15,14 @@ Now its time to alter this branch :v:
 |:memo:|Take note of this|
 |------|:----------------|
 
+table-1 *tsv* tp **md one**
+| Format | Width × Height (mm) | Width × Height (in) |
+| ------ | ------------------- | ------------------- |
+| B3     | 353 × 500 mm        | 13.9 × 19.7 in      |
+| B4     | 250 × 353 mm        | 9.8 × 13.9 in       |
+| B5     | 176 × 250 mm        | 6.9 × 9.8 in        |
+| B6     | 125 × 176 mm        | 4.9 × 6.9 in        |
+
 |:warning: WARNING|
 |:----------------|
 |this is a warning|
