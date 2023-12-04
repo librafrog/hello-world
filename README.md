@@ -1,6 +1,21 @@
 # hello-world
 If you want to join contact me in some way <img src="https://custom-icon-badges.herokuapp.com/badge/Mail-abc@gmail.com-violet?logo=mail&logoColor=white&v05.07.2022">
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 Now its time to alter this branch :v:
 - If you are bored try a simple [java game](GuessGame2.html) 🎲
 - The Sandbox ⏳ for *java only* is [this](Java-to-Send-1.html)
