@@ -95,3 +95,6 @@ Having some problems firing up the laser.
 </details>
 
 Some text after that. Do yo 🙈 Me
+
+{% octicon alert height:32 class: "right left" aria-label:hi%}
+{% octicon device-camera height: 16%}
