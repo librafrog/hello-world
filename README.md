@@ -105,3 +105,10 @@ Some text after that. Do yo 🙈 Me
 > 
 > - &#8201;
 > - &#8201;
+
+```diff
+++what
+--when
+!!how
+@@purple@@
+```
